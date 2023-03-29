@@ -17,3 +17,7 @@ Rusty Serve
 http://127.0.0.1:8080/index.html
 
 
+###### Further enhancements
+
+- [ ] multithreaded request handling
+- [ ] convert to python native module 
